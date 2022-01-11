@@ -140,6 +140,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CPPTest.cpp" />
+    <ClCompile Include="F.cpp" />
+    <ClCompile Include="QuadraticInteval.cpp" />
+    <ClCompile Include="RRF.cpp" />
+    <ClCompile Include="SUC.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F.h" />
+    <ClInclude Include="QuadraticInterval.h" />
+    <ClInclude Include="RRF.h" />
+    <ClInclude Include="SUC.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
